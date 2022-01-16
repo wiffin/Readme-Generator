@@ -54,7 +54,7 @@ const questions = data => {
             type: 'list',
             name: 'license',
             message: 'What license do you need on this project?',
-            choices: ['1', '2', '3']
+            choices: ['none', 'MIT', 'GNU']
         },
         {
             type: 'input',
@@ -104,12 +104,3 @@ questions()
        console.log('readme created');
     });
 });
-
-/* // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-function init() {}
-
-// Function call to initialize app
-init(); */
