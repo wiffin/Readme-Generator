@@ -1,8 +1,8 @@
-# gg
+# Jump
 
 ## Description
 
-gg
+you jump up and down
 
 ## Table of Contents
 
@@ -15,29 +15,29 @@ gg
 
 ## Installation
 
-gg
+jump up then down and repate
 
 ## Usage
 
-gg
+jumpjumpjump
 
 ## License
 
 MIT
 
-## Contributing
-
-If you're wanting to contribute please see below
-
-gg 
-
 ## Tests
 
-gg
+no test needed
+
+## Contributing
+
+none
+
+If you're wanting to contribute please see below!
 
 ## Questions
 
 If you have any further questions you can contact me through my github or email!
 
-GitHub:  gg
-Email:   gg
+GitHub:  wiffin
+Email:   ian@wiffin.com
