@@ -1,8 +1,8 @@
-# Jump
+# Readme-Generator
 
 ## Description
 
-you jump up and down
+This is a node project that generates a Readme.md file
 
 ## Table of Contents
 
@@ -15,23 +15,23 @@ you jump up and down
 
 ## Installation
 
-jump up then down and repate
+put node index.js into the terminal to start the readme prompts and answer those prompts
 
 ## Usage
 
-jumpjumpjump
+see above
 
 ## License
 
-MIT
+none
 
 ## Tests
 
-no test needed
+you can test it by cloning this repo and running it yourself
 
 ## Contributing
 
-none
+me, myself and I
 
 If you're wanting to contribute please see below!
 
